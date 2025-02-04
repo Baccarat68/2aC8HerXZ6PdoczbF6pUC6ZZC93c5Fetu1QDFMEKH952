@@ -1,0 +1,6 @@
+{
+  "name": "My Token",
+  "symbol": "MTK",
+  "image": "https://your-image-host.com/your-image.png",
+  "uri": "https://your-metadata-host.com/token-metadata.json"
+}
